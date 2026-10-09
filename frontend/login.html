@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Connexion / Concorde Holding Group</title>
+<meta name="theme-color" content="#1E2138">
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/icons/icon-192.png">
+<link rel="apple-touch-icon" href="/icons/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+<script src="/js/pwa.js" defer></script>
+</head>
+<body>
+<div class="auth-wrap">
+  <div class="auth-card">
+    <div class="brand">
+      <img src="/assets/logo-chg.png" alt="Logo CHG">
+      <h1>Concorde Holding Group</h1>
+      <div class="sub">Plateforme Intégrée de Gestion du Conglomérat</div>
+    </div>
+    <div class="panel">
+      <div id="error-box"></div>
+      <form id="login-form">
+        <div class="field">
+          <label for="username">Identifiant</label>
+          <input class="input" id="username" name="username" autocomplete="username" required autofocus>
+        </div>
+        <div class="field">
+          <label for="password">Mot de passe</label>
+          <input class="input" id="password" name="password" type="password" autocomplete="current-password" required>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block" id="submit-btn">Se connecter</button>
+      </form>
+    </div>
+    <div class="auth-foot">
+      Vous souhaitez rejoindre le conglomérat ? <a href="/rejoindre.html" style="color:var(--gold); font-weight:600;">Déposer une candidature</a><br>
+      <a href="/index.html" style="color:var(--text-tertiary);">&larr; Retour à l'accueil</a>
+    </div>
+  </div>
+</div>
+<script src="/js/api.js"></script>
+<script src="/js/ui.js"></script>
+<script>
+  if (Api.isLoggedIn()) window.location.href = "/app/accueil.html";
+
+  document.getElementById("login-form").addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const btn = document.getElementById("submit-btn");
+    const errorBox = document.getElementById("error-box");
+    errorBox.innerHTML = "";
+    btn.disabled = true;
+    btn.textContent = "Connexion...";
+    try {
+      const username = document.getElementById("username").value.trim();
+      const password = document.getElementById("password").value;
+      const data = await Api.post("/api/auth/login", { username, password });
+      Api.setToken(data.access_token);
+      window.location.href = "/app/accueil.html";
+    } catch (err) {
+      errorBox.innerHTML = `<div class="error-box">${escapeHtml(apiErrorMessage(err))}</div>`;
+      btn.disabled = false;
+      btn.textContent = "Se connecter";
+    }
+  });
+</script>
+</body>
+</html>

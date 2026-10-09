@@ -1,0 +1,2136 @@
+[
+  {
+    "code": "A",
+    "title": "CRÉATION ET MISE EN PLACE DU CONGLOMÉRAT",
+    "phases": [
+      {
+        "number": 1,
+        "title": "ÉTUDE DE FAISABILITÉ ET PLANIFICATION STRATÉGIQUE",
+        "tasks": [
+          {
+            "kind": "Tâche",
+            "code": "1.1",
+            "title": "Étude de marché et analyse des besoins",
+            "items": [
+              [
+                1,
+                "Identifier et cartographier tous les secteurs d'activité à couvrir sur le territoire togolais."
+              ],
+              [
+                2,
+                "Réaliser des enquêtes de terrain dans au moins 10 préfectures représentatives pour mesurer les besoins en services et en formations."
+              ],
+              [
+                3,
+                "Analyser la concurrence : recenser toutes les organisations offrant des services similaires et identifier leurs forces et faiblesses."
+              ],
+              [
+                4,
+                "Évaluer la demande potentielle pour chaque domaine d'activité identifié."
+              ],
+              [
+                5,
+                "Analyser le contexte réglementaire et juridique dans chaque domaine couvert."
+              ],
+              [
+                6,
+                "Produire un rapport d'étude de faisabilité technique, économique et financière complet."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "1.2",
+            "title": "Définition de la vision et du plan stratégique",
+            "items": [
+              [
+                7,
+                "Rédiger la déclaration de mission, la vision et les valeurs fondamentales du conglomérat."
+              ],
+              [
+                8,
+                "Définir le périmètre géographique de déploiement : Lomé, régions, préfectures, communes, quartiers et villages cibles en priorité."
+              ],
+              [
+                9,
+                "Élaborer le plan stratégique sur 3 ans, 5 ans et 10 ans."
+              ],
+              [
+                10,
+                "Fixer les objectifs SMART (Spécifiques, Mesurables, Atteignables, Réalistes, Temporels) pour chaque phase."
+              ],
+              [
+                11,
+                "Identifier les risques potentiels et élaborer un plan de gestion des risques."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "1.3",
+            "title": "Élaboration du Business Plan",
+            "items": [
+              [
+                12,
+                "Rédiger le business plan complet incluant : résumé exécutif, présentation de l'organisation, analyse du marché, stratégie commerciale, plan opérationnel, plan de ressources humaines, plan financier."
+              ],
+              [
+                13,
+                "Établir le budget prévisionnel détaillé pour la phase de création (investissements de départ, frais de fonctionnement, frais de personnel)."
+              ],
+              [
+                14,
+                "Projeter les revenus et les dépenses sur les 5 premières années d'activité."
+              ],
+              [
+                15,
+                "Calculer le seuil de rentabilité (break-even point) pour chaque activité."
+              ],
+              [
+                16,
+                "Identifier les sources de financement : fonds propres, emprunts bancaires, investisseurs, subventions, partenaires."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "CONSTITUTION JURIDIQUE ET ADMINISTRATIVE",
+        "tasks": [
+          {
+            "kind": "Tâche",
+            "code": "2.1",
+            "title": "Choix de la forme juridique",
+            "items": [
+              [
+                17,
+                "Consulter un juriste spécialisé en droit des affaires pour choisir la forme juridique la plus adaptée (SA, SARL, GIE, Fondation, Holding avec filiales, etc.)."
+              ],
+              [
+                18,
+                "Analyser les avantages et inconvénients de chaque forme juridique par rapport à la taille, aux objectifs et à la structure envisagée."
+              ],
+              [
+                19,
+                "Décider de la structure juridique définitive : idéalement un holding regroupant plusieurs filiales spécialisées par domaine."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "2.2",
+            "title": "Enregistrement et Immatriculation",
+            "items": [
+              [
+                20,
+                "Rédiger et faire certifier les statuts constitutifs du conglomérat par un notaire agréé."
+              ],
+              [
+                21,
+                "Déposer le dossier de création auprès du Centre de Formalités des Entreprises (CFE) du Togo ou du Greffe du Tribunal de Commerce."
+              ],
+              [
+                22,
+                "Obtenir le Numéro d'Identification Fiscale (NIF) auprès de la Direction Générale des Impôts."
+              ],
+              [
+                23,
+                "Immatriculer l'entreprise au Registre du Commerce et du Crédit Mobilier (RCCM)."
+              ],
+              [
+                24,
+                "Procéder aux publications légales obligatoires dans le Journal Officiel et un journal d'annonces légales."
+              ],
+              [
+                25,
+                "Ouvrir un compte bancaire professionnel au nom du conglomérat."
+              ],
+              [
+                26,
+                "Obtenir toutes les autorisations et licences sectorielles spécifiques aux domaines d'activité couverts (santé, formation, transport, restauration, finance, etc.)."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "2.3",
+            "title": "Gouvernance et organes de direction",
+            "items": [
+              [
+                27,
+                "Constituer le Conseil d'Administration ou le Comité de Direction du conglomérat avec les actionnaires/fondateurs."
+              ],
+              [
+                28,
+                "Nommer le Directeur Général et les Directeurs de Filiales ou de Branches."
+              ],
+              [
+                29,
+                "Rédiger le règlement intérieur, les procédures de gouvernance et la charte éthique."
+              ],
+              [
+                30,
+                "Définir les délégations de pouvoir et les niveaux d'autorité."
+              ],
+              [
+                31,
+                "Mettre en place les comités spécialisés : Comité d'Audit, Comité de Stratégie, Comité RH, Comité des Risques."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "FINANCEMENT ET MOBILISATION DES RESSOURCES",
+        "tasks": [
+          {
+            "kind": "Tâche",
+            "code": "3.1",
+            "title": "Recherche et mobilisation des financements",
+            "items": [
+              [
+                32,
+                "Préparer un dossier d'investissement professionnel (pitch deck, business plan, projections financières)."
+              ],
+              [
+                33,
+                "Approcher les banques togolaises et sous-régionales (BCEAO, banques commerciales, institutions de microfinance) pour des prêts et crédits."
+              ],
+              [
+                34,
+                "Contacter les fonds d'investissement spécialisés en Afrique de l'Ouest."
+              ],
+              [
+                35,
+                "Solliciter les partenaires techniques et financiers (PTF) : Banque Mondiale, BAD, AFD, UE, PNUD, Coopération togolaise."
+              ],
+              [
+                36,
+                "Organiser des sessions de levée de fonds auprès des diasporatogolaise et africaine."
+              ],
+              [
+                37,
+                "Explorer les mécanismes de crowdfunding et de financement participatif."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "3.2",
+            "title": "Gestion financière initiale",
+            "items": [
+              [
+                38,
+                "Mettre en place un système de comptabilité rigoureux dès la création (logiciel de gestion financière)."
+              ],
+              [
+                39,
+                "Établir un plan de trésorerie mensuel pour les 12 premiers mois."
+              ],
+              [
+                40,
+                "Définir la politique d'achat et de gestion des dépenses."
+              ],
+              [
+                41,
+                "Nommer un Directeur Financier (DAF) ou Expert-Comptable responsable des finances."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "INSTALLATION DES LOCAUX ET DES INFRASTRUCTURES",
+        "tasks": [
+          {
+            "kind": "Tâche",
+            "code": "4.1",
+            "title": "Acquisition ou location des locaux",
+            "items": [
+              [
+                42,
+                "Identifier et sélectionner les locaux pour le siège central du conglomérat à Lomé."
+              ],
+              [
+                43,
+                "Identifier et louer ou acquérir les locaux pour les antennes régionales dans chaque chef-lieu de région."
+              ],
+              [
+                44,
+                "Identifier les points d'implantation dans les communes, quartiers et villages cibles (agents locaux)."
+              ],
+              [
+                45,
+                "Signer les baux commerciaux ou actes d'achat des locaux sélectionnés."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "4.2",
+            "title": "Aménagement et équipement des locaux",
+            "items": [
+              [
+                46,
+                "Faire établir les plans d'aménagement intérieur par un architecte ou décorateur."
+              ],
+              [
+                47,
+                "Réaliser les travaux d'aménagement : peinture, cloisons, câblage électrique, réseau informatique."
+              ],
+              [
+                48,
+                "Acheter et installer le mobilier de bureau (bureaux, chaises, armoires, espaces d'accueil)."
+              ],
+              [
+                49,
+                "Installer les équipements informatiques et de télécommunication (ordinateurs, serveurs, téléphones, internet)."
+              ],
+              [
+                50,
+                "Installer les équipements spécifiques à chaque domaine d'activité couvert dans chaque local."
+              ],
+              [
+                51,
+                "Mettre en place les systèmes de sécurité : alarmes, vidéosurveillance, contrôle d'accès."
+              ],
+              [
+                52,
+                "Effectuer les raccordements nécessaires : eau, électricité, internet haut débit."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "RECRUTEMENT ET FORMATION DES ÉQUIPES",
+        "tasks": [
+          {
+            "kind": "Tâche",
+            "code": "5.1",
+            "title": "Définition des profils de postes",
+            "items": [
+              [
+                53,
+                "Rédiger les fiches de poste détaillées pour chaque catégorie d'emploi : spécialistes, formateurs, agents locaux, administratifs, commerciaux."
+              ],
+              [
+                54,
+                "Définir les critères de sélection et les niveaux de compétence requis pour chaque poste."
+              ],
+              [
+                55,
+                "Élaborer la grille des salaires et des avantages sociaux."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "5.2",
+            "title": "Recrutement du personnel",
+            "items": [
+              [
+                56,
+                "Publier les offres d'emploi dans les medias nationaux, sur les réseaux sociaux et auprès des universités et écoles professionnelles du Togo."
+              ],
+              [
+                57,
+                "Organiser les sessions de présélection des candidatures (analyse des CV et lettres de motivation)."
+              ],
+              [
+                58,
+                "Conduire les entretiens de recrutement (entretiens individuels, tests techniques, mises en situation)."
+              ],
+              [
+                59,
+                "Sélectionner les candidats retenus et leur notifier leur recrutement."
+              ],
+              [
+                60,
+                "Préparer et signer les contrats de travail conformément au Code du Travail togolais."
+              ],
+              [
+                61,
+                "Affilier tous les employés à la Caisse Nationale de Sécurité Sociale (CNSS)."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "5.3",
+            "title": "Formation et intégration",
+            "items": [
+              [
+                62,
+                "Organiser une session d'orientation et d'intégration pour tous les nouveaux recrues."
+              ],
+              [
+                63,
+                "Former le personnel aux valeurs, à la culture et aux procédures du conglomérat."
+              ],
+              [
+                64,
+                "Former les agents locaux aux procédures spécifiques de leurs missions (collecte de dossiers, relation client, reporting)."
+              ],
+              [
+                65,
+                "Mettre en place un plan de formation continue pour maintenir et développer les compétences."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "DÉVELOPPEMENT DE LA PLATEFORME INTÉGRÉE DE GESTION (PIG)",
+        "tasks": [
+          {
+            "kind": "Tâche",
+            "code": "6.1",
+            "title": "Cadrage et Définition des Besoins",
+            "items": [
+              [
+                66,
+                "Organiser des ateliers de travail (workshops) avec les représentants de chaque domaine d'activité pour recueillir tous les besoins fonctionnels de la plateforme."
+              ],
+              [
+                67,
+                "Rédiger le cahier des charges fonctionnel détaillé (CDF) : liste exhaustive de toutes les fonctionnalités requises par module."
+              ],
+              [
+                68,
+                "Définir les profils utilisateurs (personas) : client final, spécialiste, formateur, agent local, chef de projet, superviseur régional, directeur général."
+              ],
+              [
+                69,
+                "Prioriser les fonctionnalités par ordre d'importance : MVP (Minimum Viable Product) pour le lancement, puis fonctionnalités avancées pour les versions suivantes."
+              ],
+              [
+                70,
+                "Rédiger le cahier des charges technique (CDT) : choix technologiques, architecture logicielle, exigences de performance, sécurité, scalabilité."
+              ],
+              [
+                71,
+                "Établir le budget de développement et le planning de réalisation."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "6.2",
+            "title": "Choix Technologiques et Architecture",
+            "items": [
+              [
+                72,
+                "Choisir le stack technologique : framework backend (Node.js, Django, Laravel), framework frontend (React, Vue.js), bases de données (PostgreSQL, MongoDB), infrastructure cloud (AWS, Azure, ou hébergement local)."
+              ],
+              [
+                73,
+                "Définir l'architecture de la plateforme : architecture microservices pour la scalabilité, API REST pour les communications entre modules."
+              ],
+              [
+                74,
+                "Choisir les solutions de paiement mobile à intégrer : API Flooz (Moov), API T-Money (Togocom), solutions bancaires locales."
+              ],
+              [
+                75,
+                "Définir la stratégie de notifications : SMS (via opérateurs locaux), notifications push (Firebase), e-mail."
+              ],
+              [
+                76,
+                "Définir la politique de sécurité des données en conformité avec la réglementation UEMOA sur la protection des données personnelles."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "6.3",
+            "title": "Recrutement de l'Équipe Technique",
+            "items": [
+              [
+                77,
+                "Recruter ou mandater un Chef de Projet Technique (CTO ou Product Owner) pour piloter l'ensemble du développement."
+              ],
+              [
+                78,
+                "Recruter ou mandater des développeurs backend (minimum 2 développeurs seniors)."
+              ],
+              [
+                79,
+                "Recruter ou mandater des développeurs frontend web (minimum 1 développeur senior)."
+              ],
+              [
+                80,
+                "Recruter ou mandater des développeurs mobiles Android et iOS (minimum 2 développeurs)."
+              ],
+              [
+                81,
+                "Recruter ou mandater un Designer UX/UI spécialisé dans les applications africaines (interfaces simples, adaptées aux téléphones d'entrée de gamme)."
+              ],
+              [
+                82,
+                "Recruter ou mandater un Ingénieur DevOps pour la mise en production et la maintenance des serveurs."
+              ],
+              [
+                83,
+                "Recruter ou mandater un Expert en Cybersécurité pour valider l'architecture de sécurité."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "6.4",
+            "title": "Développement par Modules (Sprints Agiles)",
+            "items": []
+          },
+          {
+            "kind": "Sprint",
+            "code": "1-2",
+            "title": "Sprint 1-2  Fondations (Semaines 1 à 4) :",
+            "items": [
+              [
+                84,
+                "Mise en place de l'infrastructure serveur, des bases de données et de l'environnement de développement."
+              ],
+              [
+                85,
+                "Développement du système d'authentification et de gestion des comptes utilisateurs (inscription, connexion, KYC simplifié)."
+              ],
+              [
+                86,
+                "Développement du système de rôles et de permissions (client, spécialiste, formateur, agent, administrateur)."
+              ]
+            ]
+          },
+          {
+            "kind": "Sprint",
+            "code": "3-4",
+            "title": "Sprint 3-4  Module Client : Demande de Services (Semaines 5 à 8) :",
+            "items": [
+              [
+                87,
+                "Développement du catalogue des services par domaine et par spécialité."
+              ],
+              [
+                88,
+                "Développement du formulaire de demande de service avec géolocalisation."
+              ],
+              [
+                89,
+                "Développement du système de suivi des demandes en temps réel avec statuts."
+              ],
+              [
+                90,
+                "Développement de la messagerie interne client-spécialiste."
+              ],
+              [
+                91,
+                "Développement du système d'évaluation et de notation des prestations."
+              ]
+            ]
+          },
+          {
+            "kind": "Sprint",
+            "code": "5-6",
+            "title": "Sprint 5-6  Module Spécialiste : Gestion des Missions (Semaines 9 à 12) :",
+            "items": [
+              [
+                92,
+                "Développement du tableau de bord spécialiste avec liste des missions assignées."
+              ],
+              [
+                93,
+                "Développement du système de notification des nouvelles missions."
+              ],
+              [
+                94,
+                "Développement du module de mise à jour de l'avancement des travaux."
+              ],
+              [
+                95,
+                "Développement du module de dépôt de rapports d'intervention et de photos."
+              ],
+              [
+                96,
+                "Développement du module de soumission des fiches d'intervention pour validation."
+              ]
+            ]
+          },
+          {
+            "kind": "Sprint",
+            "code": "7-8",
+            "title": "Sprint 7-8  Module Coordination et Gestion des Travaux (Semaines 13 à 16) :",
+            "items": [
+              [
+                97,
+                "Développement du tableau de bord Chef de Projet avec vue d'ensemble des missions en cours."
+              ],
+              [
+                98,
+                "Développement du moteur d'attribution automatique des missions (matching spécialiste-demande par géolocalisation et disponibilité)."
+              ],
+              [
+                99,
+                "Développement du calendrier interactif des interventions."
+              ],
+              [
+                100,
+                "Développement du système d'alertes automatiques (retards, anomalies, réclamations)."
+              ],
+              [
+                101,
+                "Développement du module de gestion des ressources (stocks, équipements, véhicules)."
+              ],
+              [
+                102,
+                "Développement de la messagerie d'équipe et du système de partage de documents."
+              ]
+            ]
+          },
+          {
+            "kind": "Sprint",
+            "code": "9-10",
+            "title": "Sprint 9-10  Module Formation et Module Financier (Semaines 17 à 20) :",
+            "items": [
+              [
+                103,
+                "Développement du catalogue de formations en ligne avec inscriptions et paiements."
+              ],
+              [
+                104,
+                "Développement du suivi de progression des apprenants et de la délivrance des certificats numériques."
+              ],
+              [
+                105,
+                "Développement du module de génération automatique des devis et factures."
+              ],
+              [
+                106,
+                "Intégration des API de paiement mobile (Flooz, T-Money) et bancaires."
+              ],
+              [
+                107,
+                "Développement du tableau de bord financier avec suivi de trésorerie par activité."
+              ]
+            ]
+          },
+          {
+            "kind": "Sprint",
+            "code": "11-12",
+            "title": "Sprint 11-12  Tableau de Bord Direction et Application Mobile (Semaines 21 à 24) :",
+            "items": [
+              [
+                108,
+                "Développement du tableau de bord stratégique de la direction avec KPIs consolidés."
+              ],
+              [
+                109,
+                "Développement de la cartographie interactive des interventions sur le territoire national."
+              ],
+              [
+                110,
+                "Développement des rapports automatisés et des analyses de tendances."
+              ],
+              [
+                111,
+                "Finalisation de l'application mobile Android et iOS (UI/UX, tests de compatibilité, géolocalisation, notifications push)."
+              ],
+              [
+                112,
+                "Développement de l'interface en langues locales pour l'application mobile grand public."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "6.5",
+            "title": "Tests et Assurance Qualité",
+            "items": [
+              [
+                113,
+                "Réaliser des tests unitaires sur chaque fonctionnalité développée."
+              ],
+              [
+                114,
+                "Réaliser des tests d'intégration pour vérifier la bonne communication entre les modules."
+              ],
+              [
+                115,
+                "Réaliser des tests de performance et de charge pour simuler des milliers d'utilisateurs simultanés."
+              ],
+              [
+                116,
+                "Réaliser des tests de sécurité (pentest) pour identifier et corriger les vulnérabilités."
+              ],
+              [
+                117,
+                "Réaliser des tests utilisateurs avec un panel de 50 à 100 utilisateurs représentatifs (clients, spécialistes, agents) pour valider l'ergonomie et la facilité d'utilisation."
+              ],
+              [
+                118,
+                "Corriger tous les bugs et anomalies identifiés avant la mise en production."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "6.6",
+            "title": "Déploiement et Mise en Production",
+            "items": [
+              [
+                119,
+                "Mettre en production la plateforme sur les serveurs cloud sécurisés."
+              ],
+              [
+                120,
+                "Mettre en place les systèmes de monitoring de la plateforme (surveillance de la disponibilité, temps de réponse, erreurs)."
+              ],
+              [
+                121,
+                "Mettre en place les sauvegardes automatiques quotidiennes des données."
+              ],
+              [
+                122,
+                "Publier l'application mobile sur le Google Play Store et l'Apple App Store."
+              ],
+              [
+                123,
+                "Déployer le site web sur le nom de domaine officiel du conglomérat."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "6.7",
+            "title": "Formation des Utilisateurs Internes",
+            "items": [
+              [
+                124,
+                "Former tous les spécialistes et formateurs du conglomérat à l'utilisation de leur espace sur la plateforme."
+              ],
+              [
+                125,
+                "Former tous les agents locaux à l'utilisation de l'interface agent (collecte de demandes, mise à jour des statuts)."
+              ],
+              [
+                126,
+                "Former les chefs de projet et superviseurs à l'utilisation du module de coordination des travaux."
+              ],
+              [
+                127,
+                "Former la direction à la lecture et à l'utilisation du tableau de bord stratégique."
+              ],
+              [
+                128,
+                "Créer des tutoriels vidéo et des guides d'utilisation pour chaque profil d'utilisateur."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "6.8",
+            "title": "Maintenance, Évolution et Support",
+            "items": [
+              [
+                129,
+                "Mettre en place une équipe de support technique disponible par téléphone et chat pour les utilisateurs de la plateforme."
+              ],
+              [
+                130,
+                "Établir un plan de maintenance corrective (correction de bugs) et évolutive (nouvelles fonctionnalités)."
+              ],
+              [
+                131,
+                "Planifier les mises à jour régulières de la plateforme en fonction des retours utilisateurs et des besoins opérationnels."
+              ],
+              [
+                132,
+                "Mettre en place un système de gestion des retours utilisateurs (feedback, suggestions d'amélioration)."
+              ],
+              [
+                133,
+                "Conduire des audits de sécurité semestriels et mettre à jour les systèmes de protection."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "COMMUNICATION, MARKETING ET LANCEMENT",
+        "tasks": [
+          {
+            "kind": "Tâche",
+            "code": "7.1",
+            "title": "Création de l'identité visuelle",
+            "items": [
+              [
+                134,
+                "Créer le nom officiel, le logo, les couleurs et la charte graphique du conglomérat."
+              ],
+              [
+                135,
+                "Faire concevoir tous les supports de communication : cartes de visite, brochures, affiches, banderoles, uniformes, véhicules."
+              ],
+              [
+                136,
+                "Créer et activer les comptes sur les réseaux sociaux (Facebook, Instagram, LinkedIn, WhatsApp Business, TikTok)."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "7.2",
+            "title": "Stratégie de communication et de lancement",
+            "items": [
+              [
+                137,
+                "Élaborer le plan de communication sur 12 mois."
+              ],
+              [
+                138,
+                "Organiser la cérémonie officielle de lancement du conglomérat (invités officiels, médias, partenaires, clients)."
+              ],
+              [
+                139,
+                "Mener des campagnes de sensibilisation dans les médias locaux (radios, télévisions, journaux)."
+              ],
+              [
+                140,
+                "Organiser des tournées de présentation dans toutes les régions du pays."
+              ],
+              [
+                141,
+                "Mettre en place un programme de fidélisation et de parrainage des premiers clients."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "title": "DÉPLOIEMENT DU RÉSEAU D'AGENTS LOCAUX",
+        "tasks": [
+          {
+            "kind": "Tâche",
+            "code": "8.1",
+            "title": "Recrutement et formation des agents locaux",
+            "items": [
+              [
+                142,
+                "Identifier et recruter des agents locaux dans chaque commune, préfecture, quartier et village cible."
+              ],
+              [
+                143,
+                "Former chaque agent à ses responsabilités spécifiques : accueil des clients, collecte de dossiers, encaissement, reporting quotidien."
+              ],
+              [
+                144,
+                "Équiper chaque agent d'un kit de travail : smartphone, tablette ou ordinateur, connexion internet mobile, imprimante portable, tampons officiels."
+              ],
+              [
+                145,
+                "Mettre en place un système de contrôle et de supervision des agents locaux."
+              ],
+              [
+                146,
+                "Définir les indicateurs de performance des agents (nombre de dossiers traités, satisfaction client, délai de traitement)."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "8.2",
+            "title": "Système de commissionnement des agents",
+            "items": [
+              [
+                147,
+                "Définir la grille de commissionnement pour chaque type de service rendu par les agents."
+              ],
+              [
+                148,
+                "Mettre en place un système de paiement des commissions transparent et régulier."
+              ],
+              [
+                149,
+                "Instaurer un programme de récompenses et de motivation pour les meilleurs agents."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "title": "MISE EN PLACE DES PROGRAMMES DE FORMATION",
+        "tasks": [
+          {
+            "kind": "Tâche",
+            "code": "9.1",
+            "title": "Conception des curricula de formation",
+            "items": [
+              [
+                150,
+                "Pour chacun des 15 domaines d'activité, concevoir un curriculum de formation complet avec les formateurs recrutés."
+              ],
+              [
+                151,
+                "Définir les niveaux de formation : initiation (3 mois), perfectionnement (6 mois), expertise (12 mois)."
+              ],
+              [
+                152,
+                "Créer les supports pédagogiques : manuels, guides pratiques, fiches techniques, vidéos tutorielles."
+              ],
+              [
+                153,
+                "Mettre en place un système d'évaluation et de certification des apprenants."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "9.2",
+            "title": "Organisation des centres de formation",
+            "items": [
+              [
+                154,
+                "Aménager des salles de classe et des ateliers pratiques dans les locaux du conglomérat."
+              ],
+              [
+                155,
+                "Acheter le matériel pédagogique et les équipements de formation pour chaque spécialité."
+              ],
+              [
+                156,
+                "Établir un calendrier de formation et un système d'inscription en ligne."
+              ],
+              [
+                157,
+                "Nouer des partenariats avec des entreprises locales pour l'accueil en stage des apprenants."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "title": "SUIVI, ÉVALUATION ET AMÉLIORATION CONTINUE",
+        "tasks": [
+          {
+            "kind": "Tâche",
+            "code": "10.1",
+            "title": "Système de monitoring et évaluation",
+            "items": [
+              [
+                158,
+                "Mettre en place des indicateurs de performance clés (KPIs) pour chaque domaine d'activité et chaque projet."
+              ],
+              [
+                159,
+                "Organiser des réunions de revue mensuelle de la performance avec toutes les équipes."
+              ],
+              [
+                160,
+                "Mettre en place un système de remontée des plaintes et suggestions des clients."
+              ],
+              [
+                161,
+                "Conduire une enquête de satisfaction client trimestrielle."
+              ]
+            ]
+          },
+          {
+            "kind": "Tâche",
+            "code": "10.2",
+            "title": "Rapports et reddition de comptes",
+            "items": [
+              [
+                162,
+                "Produire des rapports d'activité mensuels, trimestriels et annuels."
+              ],
+              [
+                163,
+                "Présenter les résultats au Conseil d'Administration ou aux actionnaires."
+              ],
+              [
+                164,
+                "Publier un rapport annuel de responsabilité sociale et environnementale."
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "B",
+    "title": "PROJET 1 : DÉCENTRALISATION DE L'IMMATRICULATION",
+    "phases": [
+      {
+        "number": 1,
+        "title": "CADRE LÉGAL ET PARTENARIATS INSTITUTIONNELS",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                165,
+                "Contacter et rencontrer le Ministère des Transports Routiers et Aériens du Togo pour explorer le cadre légal d'un mandat d'immatriculation."
+              ],
+              [
+                166,
+                "Consulter le Code de la Route et les textes réglementaires sur l'immatriculation des véhicules au Togo."
+              ],
+              [
+                167,
+                "Rédiger et soumettre une demande d'agrément ou d'autorisation officielle au Ministère des Transports."
+              ],
+              [
+                168,
+                "Contacter l'Office Togolais des Recettes (OTR) et la Direction Générale des Douanes pour les aspects fiscaux."
+              ],
+              [
+                169,
+                "Finaliser une convention de partenariat officielle avec le Ministère des Transports définissant le rôle et les responsabilités du conglomérat."
+              ],
+              [
+                170,
+                "Définir les garanties financières et les cautions à déposer pour obtenir l'agrément."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "DÉVELOPPEMENT DU SYSTÈME DE GESTION DES DOSSIERS",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                171,
+                "Développer une application de gestion des dossiers d'immatriculation accessible aux agents locaux et au bureau central."
+              ],
+              [
+                172,
+                "Intégrer un système de numérisation des documents (scan, téléchargement de photos, vérification automatique de la complétude des dossiers)."
+              ],
+              [
+                173,
+                "Mettre en place un système de suivi en temps réel accessible par SMS et application mobile pour les clients."
+              ],
+              [
+                174,
+                "Créer un système de génération automatique des accusés de réception et de récépissés officiels."
+              ],
+              [
+                175,
+                "Sécuriser l'application par des accès différenciés selon les niveaux (agent local, bureau régional, bureau central, administration)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "RECRUTEMENT ET FORMATION DES AGENTS D'IMMATRICULATION",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                176,
+                "Recruter des agents spécialisés en formalités administratives automobiles pour le bureau central."
+              ],
+              [
+                177,
+                "Former ces agents sur les procédures officielles d'immatriculation, les formulaires administratifs et les exigences de chaque service de l'État."
+              ],
+              [
+                178,
+                "Recruter et former les agents de terrain (un par commune au minimum) sur la collecte et la vérification des dossiers."
+              ],
+              [
+                179,
+                "Définir des protocoles stricts pour prévenir les erreurs et les fraudes dans la gestion des dossiers."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "DÉPLOIEMENT ET OPÉRATIONS",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                180,
+                "Démarrer le service en phase pilote dans 3 préfectures choisies (Lomé, Atakpamé, Kara) pendant 3 mois pour identifier et corriger les problèmes."
+              ],
+              [
+                181,
+                "Analyser les résultats de la phase pilote et apporter les ajustements nécessaires."
+              ],
+              [
+                182,
+                "Déploiement progressif dans toutes les préfectures et communes du Togo."
+              ],
+              [
+                183,
+                "Mettre en place un système de livraison sécurisée des plaques et documents dans chaque localité."
+              ],
+              [
+                184,
+                "Lancer une campagne de communication ciblant les zones rurales pour faire connaître le service."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "CONTRÔLE QUALITÉ ET AMÉLIORATION",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                185,
+                "Mettre en place des indicateurs de qualité : taux d'erreurs, délai de traitement moyen, satisfaction client."
+              ],
+              [
+                186,
+                "Organiser des audits internes trimestriels pour vérifier le respect des procédures."
+              ],
+              [
+                187,
+                "Maintenir une relation permanente avec les services de l'État pour adapter les procédures en cas de changement réglementaire."
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "C",
+    "title": "PROJET 2 : CHAÎNE DE RESTAURATION INTÉGRÉE",
+    "phases": [
+      {
+        "number": 1,
+        "title": "MISE EN PLACE DE L'UNITÉ DE PRODUCTION AGRICOLE",
+        "tasks": [
+          {
+            "kind": "Étape",
+            "code": "1.1",
+            "title": "Acquisition et préparation des terres",
+            "items": [
+              [
+                188,
+                "Identifier et sélectionner des terres agricoles disponibles dans au moins 3 régions agricoles du Togo (Région des Plateaux, Région Centrale, Région Maritime)."
+              ],
+              [
+                189,
+                "Procéder aux formalités foncières : titre foncier, bail emphytéotique ou concession rurale auprès des autorités compétentes."
+              ],
+              [
+                190,
+                "Faire réaliser une étude pédologique (analyse des sols) pour chaque parcelle sélectionnée."
+              ],
+              [
+                191,
+                "Préparer les terres : défriche, labour, travaux d'aménagement (drainage, nivellement, installation du système d'irrigation)."
+              ]
+            ]
+          },
+          {
+            "kind": "Étape",
+            "code": "1.2",
+            "title": "Mise en culture et élevage",
+            "items": [
+              [
+                192,
+                "Acquérir les semences améliorées et les intrants agricoles (engrais, produits phytosanitaires homologués)."
+              ],
+              [
+                193,
+                "Démarrer les premières cultures selon le calendrier cultural adapté à chaque région."
+              ],
+              [
+                194,
+                "Construire les infrastructures d'élevage : poulailler, étable, porcherie, étang piscicole."
+              ],
+              [
+                195,
+                "Acquérir le cheptel initial et démarrer les activités d'élevage."
+              ],
+              [
+                196,
+                "Recruter et former des techniciens agricoles et des éleveurs professionnels."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "MISE EN PLACE DE L'UNITÉ DE TRANSFORMATION",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                197,
+                "Identifier et louer ou construire un bâtiment adapté pour l'unité de transformation."
+              ],
+              [
+                198,
+                "Acquérir et installer les équipements de transformation : moulins, broyeurs, presses, pasteurisateurs, chambre froide."
+              ],
+              [
+                199,
+                "Obtenir les autorisations sanitaires et les certifications de qualité alimentaire (ANASAP, normes HACCP)."
+              ],
+              [
+                200,
+                "Recruter des techniciens en agroalimentaire et en conservation des aliments."
+              ],
+              [
+                201,
+                "Mettre en place un système de traçabilité des produits de la ferme au restaurant."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "OUVERTURE DE LA CHAÎNE DE RESTAURANTS",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                202,
+                "Identifier les emplacements stratégiques pour les premiers restaurants de la chaîne (centres-villes, quartiers d'affaires, abords des universités, marchés)."
+              ],
+              [
+                203,
+                "Aménager et équiper chaque restaurant (cuisine professionnelle, salle de restauration, mobilier, signalétique)."
+              ],
+              [
+                204,
+                "Obtenir toutes les autorisations d'exploitation (permis d'exploitation, autorisation sanitaire, enregistrement fiscal)."
+              ],
+              [
+                205,
+                "Recruter le personnel de restauration : cuisiniers, serveurs, gestionnaires, caissiers."
+              ],
+              [
+                206,
+                "Former le personnel aux standards de qualité et d'hygiène du conglomérat."
+              ],
+              [
+                207,
+                "Créer et tester les menus basés sur les productions agricoles du conglomérat."
+              ],
+              [
+                208,
+                "Ouvrir les premiers restaurants en phase pilote (2 à 3 restaurants) et évaluer les résultats après 3 mois."
+              ],
+              [
+                209,
+                "Procéder au déploiement progressif sur l'ensemble du territoire."
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "D",
+    "title": "PROJET 3 : SALON DE HAUTE COUTURE",
+    "phases": [
+      {
+        "number": 1,
+        "title": "INSTALLATION ET ÉQUIPEMENT",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                210,
+                "Identifier et louer un local spacieux dans un emplacement commercial stratégique (idéalement en centre-ville ou dans un quartier commerçant)."
+              ],
+              [
+                211,
+                "Faire établir les plans d'aménagement du salon par un architecte d'intérieur : ateliers de coupe, ateliers de couture, espace essayage, showroom, réception, formation."
+              ],
+              [
+                212,
+                "Réaliser les travaux d'aménagement intérieur."
+              ],
+              [
+                213,
+                "Acheter et installer tous les équipements : machines à coudre industrielles, surjeteuses, machines à broder numériques, tables de patronage."
+              ],
+              [
+                214,
+                "Constituer un stock initial de tissus, fils, boutons, fermetures, accessoires de couture de toutes qualités."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "RECRUTEMENT ET ORGANISATION DE L'ÉQUIPE",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                215,
+                "Recruter les tailleurs et couturiers spécialistes (hommes, femmes, enfants, haute couture, mode africaine, etc.)."
+              ],
+              [
+                216,
+                "Recruter les formateurs en couture avec expérience pédagogique confirmée."
+              ],
+              [
+                217,
+                "Définir les fiches de poste, les responsabilités et les objectifs de chaque membre de l'équipe."
+              ],
+              [
+                218,
+                "Mettre en place un système de prise de commandes, de suivi des clients et de livraison des vêtements."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "PROGRAMME DE FORMATION EN COUTURE",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                219,
+                "Concevoir les modules de formation pour chaque niveau (initiation, intermédiaire, expert) et chaque spécialité."
+              ],
+              [
+                220,
+                "Établir le calendrier des sessions de formation et le système d'inscription."
+              ],
+              [
+                221,
+                "Créer les diplômes et certificats de fin de formation reconnus par le conglomérat."
+              ],
+              [
+                222,
+                "Nouer des partenariats avec des marques et boutiques locales pour l'insertion professionnelle des diplômés."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "OUVERTURE ET COMMUNICATION",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                223,
+                "Organiser une journée portes ouvertes pour présenter le salon au public et à la presse."
+              ],
+              [
+                224,
+                "Lancer une campagne de communication sur les réseaux sociaux avec des photos des créations du salon."
+              ],
+              [
+                225,
+                "Participer aux foires et expositions de mode locales et régionales."
+              ],
+              [
+                226,
+                "Mettre en place un système de fidélisation des clients (carte de fidélité, remises pour commandes régulières)."
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "E",
+    "title": "PROJET 4 : SALON DE HAUTE COIFFURE",
+    "phases": [
+      {
+        "number": 1,
+        "title": "INSTALLATION ET ÉQUIPEMENT",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                227,
+                "Identifier et louer un local bien situé et spacieux pour accueillir le salon (emplacement commercial avec forte fréquentation)."
+              ],
+              [
+                228,
+                "Aménager le salon en plusieurs espaces distincts : coiffure femme, coiffure homme, coiffure enfants, esthétique, manucure/pédicure, formation."
+              ],
+              [
+                229,
+                "Acheter et installer tous les équipements professionnels : fauteuils, bacs à shampoing, casques séchoirs, fers, tondeuses, tables de manucure."
+              ],
+              [
+                230,
+                "Constituer un stock complet de produits capillaires de toutes gammes et marques."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "RECRUTEMENT DE L'ÉQUIPE",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                231,
+                "Recruter des coiffeurs et coiffeuses spécialisés dans chaque type de coiffure couverte."
+              ],
+              [
+                232,
+                "Recruter des esthéticiennes qualifiées."
+              ],
+              [
+                233,
+                "Recruter des formateurs en coiffure et en beauté avec expérience pédagogique."
+              ],
+              [
+                234,
+                "Former toute l'équipe aux standards d'hygiène, d'accueil et de qualité de service du conglomérat."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "PROGRAMME DE FORMATION",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                235,
+                "Concevoir les modules de formation pour chaque spécialité capillaire et esthétique."
+              ],
+              [
+                236,
+                "Mettre en place le calendrier des sessions et le système d'inscription."
+              ],
+              [
+                237,
+                "Créer les certifications de fin de formation."
+              ],
+              [
+                238,
+                "Organiser des masterclasses avec des coiffeurs professionnels invités."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "LANCEMENT ET DÉVELOPPEMENT",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                239,
+                "Organiser une inauguration officielle du salon avec démonstrations gratuites."
+              ],
+              [
+                240,
+                "Lancer des promotions d'ouverture pour attirer la clientèle."
+              ],
+              [
+                241,
+                "Mettre en place un système de réservation en ligne et par téléphone."
+              ],
+              [
+                242,
+                "Suivre mensuellement le chiffre d'affaires et la satisfaction clientèle."
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "F",
+    "title": "PROJET 5 : PROGRAMME D'ASSURANCE-ÉTUDES",
+    "phases": [
+      {
+        "number": 1,
+        "title": "CADRE LÉGAL ET PARTENARIATS",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                243,
+                "Consulter des juristes spécialisés pour définir le cadre légal du produit assurance-études (assurance, épargne, investissement)."
+              ],
+              [
+                244,
+                "Obtenir les autorisations nécessaires auprès de la CIMA (Conférence Interafricaine des Marchés d'Assurances) et des autorités togolaises de régulation financière."
+              ],
+              [
+                245,
+                "Identifier et contacter les universités et grandes écoles partenaires dans les pays cibles (France, Canada, Belgique, Allemagne, États-Unis, Chine, Maroc)."
+              ],
+              [
+                246,
+                "Négocier des accords de partenariat avec ces universités pour des admissions facilitées et des bourses partielles."
+              ],
+              [
+                247,
+                "Contacter les ambassades des pays de destination pour explorer les voies de facilitation des visas."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "CONCEPTION DU PRODUIT FINANCIER",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                248,
+                "Concevoir les différentes formules de cotisation mensuelle (ex : formule Bronze, Argent, Or, Platine) selon le pays de destination et les ambitions académiques."
+              ],
+              [
+                249,
+                "Définir les conditions générales du contrat assurance-études (bénéficiaires, montants garantis, cas de force majeure)."
+              ],
+              [
+                250,
+                "Mettre en place un fonds sécurisé et audité pour gérer les cotisations des familles."
+              ],
+              [
+                251,
+                "Définir la politique d'investissement du fonds pour qu'il génère des rendements positifs."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "CRÉATION DES FOYERS D'ACCUEIL",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                252,
+                "Identifier et contacter des responsables de diaspora togolaise dans chaque pays de destination cible."
+              ],
+              [
+                253,
+                "Louer ou acquérir des logements adaptés pour constituer les premiers foyers d'accueil."
+              ],
+              [
+                254,
+                "Recruter et nommer un responsable de foyer dans chaque pays."
+              ],
+              [
+                255,
+                "Établir des partenariats locaux dans chaque pays (associations d'aide aux étudiants, services sociaux universitaires)."
+              ],
+              [
+                256,
+                "Mettre en place un système de communication régulière entre les foyers, les étudiants et les familles au Togo."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "PROGRAMME DE PRÉPARATION DES ÉTUDIANTS",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                257,
+                "Créer le centre de préparation académique au sein du conglomérat."
+              ],
+              [
+                258,
+                "Recruter des professeurs de langues (anglais, français, espagnol, allemand, chinois)."
+              ],
+              [
+                259,
+                "Développer le programme de cours de langue, de mise à niveau académique et de préparation culturelle."
+              ],
+              [
+                260,
+                "Mettre en place le service d'orientation et d'aide à la constitution des dossiers de candidature."
+              ],
+              [
+                261,
+                "Établir les partenariats avec des centres de préparation aux tests de langue officiels (IELTS, TOEFL, DELF)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "LANCEMENT ET COMMERCIALISATION",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                262,
+                "Organiser des réunions d'information pour les parents et les familles dans toutes les régions du Togo."
+              ],
+              [
+                263,
+                "Lancer une campagne de communication multicanale (radio, télévision, réseaux sociaux, bouche-à-oreille)."
+              ],
+              [
+                264,
+                "Recruter des agents commerciaux chargés de la vente des formules d'assurance-études."
+              ],
+              [
+                265,
+                "Mettre en place le système d'inscription en ligne et de gestion des comptes des souscripteurs."
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "G",
+    "title": "PROJET 6 : PROGRAMME DE COMPENSATION PHYTOSANITAIRE",
+    "phases": [
+      {
+        "number": 1,
+        "title": "CADRE LÉGAL, RÉGLEMENTAIRE ET TECHNIQUE",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                266,
+                "Contacter le Ministère de l'Agriculture, de l'Élevage et du Développement Rural pour cadrer le projet."
+              ],
+              [
+                267,
+                "Identifier les textes réglementaires sur l'assurance agricole et la protection phytosanitaire au Togo."
+              ],
+              [
+                268,
+                "Solliciter un agrément auprès de l'autorité de régulation des assurances (CIMA) pour le volet assurance agricole."
+              ],
+              [
+                269,
+                "Nouer des partenariats avec l'Institut Togolais de Recherche Agronomique (ITRA) pour l'expertise technique."
+              ],
+              [
+                270,
+                "Établir des partenariats avec des distributeurs d'intrants agricoles agréés."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "CONSTITUTION DE L'ÉQUIPE D'EXPERTS",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                271,
+                "Recruter des ingénieurs agronomes et des techniciens phytosanitaires pour constituer l'équipe terrain."
+              ],
+              [
+                272,
+                "Recruter un actuaire ou un expert en assurance agricole pour concevoir le produit d'assurance."
+              ],
+              [
+                273,
+                "Former l'équipe aux méthodes d'évaluation des sinistres agricoles, aux bonnes pratiques phytosanitaires et aux techniques d'identification des maladies et ravageurs."
+              ],
+              [
+                274,
+                "Doter chaque technicien terrain d'un kit de travail : équipements de protection, trousse d'analyses rapides, tablette de saisie des données."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "CONCEPTION DU PRODUIT D'ASSURANCE AGRICOLE",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                275,
+                "Définir les cultures couvertes, les risques garantis (maladies, ravageurs, sécheresse, inondation) et les exclusions."
+              ],
+              [
+                276,
+                "Calculer les primes d'assurance selon la superficie, la culture et la zone géographique."
+              ],
+              [
+                277,
+                "Définir le barème de compensation pour chaque type de sinistre et chaque culture."
+              ],
+              [
+                278,
+                "Rédiger le contrat d'assurance agricole type en langage simple et accessible."
+              ],
+              [
+                279,
+                "Faire valider le produit par un actuaire indépendant et les autorités de régulation."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "DÉPLOIEMENT TERRAIN",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                280,
+                "Lancer le programme dans 2 régions pilotes pendant la première saison agricole."
+              ],
+              [
+                281,
+                "Sensibiliser et enrôler les agriculteurs en partenariat avec les coopératives agricoles locales."
+              ],
+              [
+                282,
+                "Réaliser les états des lieux initiaux de toutes les exploitations assurées."
+              ],
+              [
+                283,
+                "Organiser les premières sessions de formation des agriculteurs membres."
+              ],
+              [
+                284,
+                "Mettre en place le système de déclaration des sinistres et d'évaluation des dommages."
+              ],
+              [
+                285,
+                "Étendre progressivement le programme à toutes les régions agricoles du Togo."
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "H",
+    "title": "PROJET 7 : BANQUE NUMÉRIQUE DE CRYPTOMONNAIES",
+    "phases": [
+      {
+        "number": 1,
+        "title": "CADRE JURIDIQUE ET RÉGLEMENTAIRE",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                286,
+                "Consulter des juristes spécialisés en droit financier numérique et en réglementation des cryptomonnaies en Afrique de l'Ouest (UEMOA, BCEAO)."
+              ],
+              [
+                287,
+                "Analyser les textes de la BCEAO sur la monnaie électronique et les actifs numériques."
+              ],
+              [
+                288,
+                "Identifier les types de licences nécessaires : émetteur de monnaie électronique, établissement de paiement, plateforme d'échange d'actifs numériques."
+              ],
+              [
+                289,
+                "Soumettre les demandes d'agrément auprès des autorités compétentes (BCEAO, Ministère des Finances du Togo)."
+              ],
+              [
+                290,
+                "Mettre en place le programme de conformité AML/KYC (Anti-blanchiment, Connaissance du Client)."
+              ],
+              [
+                291,
+                "Nommer un Responsable de la Conformité (Compliance Officer) pour superviser le respect de la réglementation."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "DÉVELOPPEMENT TECHNOLOGIQUE DE LA PLATEFORME",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                292,
+                "Recruter ou mandater une équipe de développeurs blockchain et fintech spécialisés."
+              ],
+              [
+                293,
+                "Choisir l'architecture technologique : plateforme propriétaire ou intégration avec des solutions existantes (Binance Cloud, White Label Exchange)."
+              ],
+              [
+                294,
+                "Développer l'application web et mobile de la plateforme de cryptomonnaies."
+              ],
+              [
+                295,
+                "Intégrer les modules nécessaires : wallet multi-cryptos, module d'achat/vente, module de staking, tableau de bord en temps réel, historique des transactions."
+              ],
+              [
+                296,
+                "Développer le module KYC en ligne pour la vérification d'identité des membres."
+              ],
+              [
+                297,
+                "Mettre en place l'infrastructure de sécurité : chiffrement AES-256, authentification 2FA, cold storage pour les actifs."
+              ],
+              [
+                298,
+                "Intégrer les systèmes de paiement locaux pour les dépôts et retraits : mobile money (Flooz, T-Money), virement bancaire, dépôt en agence."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "PARTENARIATS ET INTÉGRATIONS",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                299,
+                "Nouer des partenariats avec des exchanges de cryptomonnaies de référence pour assurer la liquidité de la plateforme (Binance, Coinbase Pro, Kraken)."
+              ],
+              [
+                300,
+                "Négocier des accords avec les opérateurs de mobile money pour l'intégration des paiements."
+              ],
+              [
+                301,
+                "Établir des partenariats avec des banques locales pour les conversions FCFA/Crypto."
+              ],
+              [
+                302,
+                "Contacter des fournisseurs de solutions cold storage pour la sécurisation des actifs des membres."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "TESTS, AUDITS ET CERTIFICATIONS",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                303,
+                "Réaliser des tests intensifs de la plateforme (tests de charge, tests de sécurité, tests utilisateurs)."
+              ],
+              [
+                304,
+                "Mandater un cabinet indépendant spécialisé pour un audit de sécurité complet du code et de l'infrastructure (pentest)."
+              ],
+              [
+                305,
+                "Corriger toutes les vulnérabilités identifiées lors de l'audit."
+              ],
+              [
+                306,
+                "Faire certifier la plateforme par un organisme reconnu (ISO 27001 pour la sécurité de l'information)."
+              ],
+              [
+                307,
+                "Organiser une phase de bêta-test avec un groupe restreint de membres fondateurs (100 à 200 personnes)."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "PROCÉDURES D'ONBOARDING DES MEMBRES",
+        "tasks": [
+          {
+            "kind": "Étape",
+            "code": "5.1",
+            "title": "Demande de Création de Compte",
+            "items": [
+              [
+                308,
+                "Le membre intéressé soumet une demande via l'application mobile ou le site web du conglomérat."
+              ],
+              [
+                309,
+                "Il remplit un formulaire d'inscription avec ses informations personnelles."
+              ],
+              [
+                310,
+                "Il accepte les Conditions Générales d'Utilisation et la politique de confidentialité."
+              ]
+            ]
+          },
+          {
+            "kind": "Étape",
+            "code": "5.2",
+            "title": "Vérification KYC",
+            "items": [
+              [
+                311,
+                "Le membre télécharge les documents requis : pièce d'identité nationale valide (recto-verso), justificatif de domicile de moins de 3 mois, selfie de vérification en tenant sa pièce d'identité."
+              ],
+              [
+                312,
+                "Le système KYC automatisé analyse et vérifie les documents en temps réel."
+              ],
+              [
+                313,
+                "En cas de doute ou de problème, un agent de conformité humain examine manuellement le dossier."
+              ],
+              [
+                314,
+                "Validation ou rejet du dossier KYC dans un délai de 24 à 72 heures avec notification par SMS et e-mail."
+              ]
+            ]
+          },
+          {
+            "kind": "Étape",
+            "code": "5.3",
+            "title": "Activation du Compte et du Wallet",
+            "items": [
+              [
+                315,
+                "Dès validation du KYC, le compte est automatiquement activé."
+              ],
+              [
+                316,
+                "Un wallet multi-cryptos unique est généré pour le membre."
+              ],
+              [
+                317,
+                "Le membre reçoit ses identifiants sécurisés et est guidé pour configurer l'authentification à deux facteurs (2FA)."
+              ],
+              [
+                318,
+                "Un tutoriel de prise en main de la plateforme est envoyé par e-mail et SMS."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "FORMATION ET ÉDUCATION FINANCIÈRE",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                319,
+                "Développer un parcours de formation en ligne intégré à la plateforme : modules de 30 minutes couvrant les bases des cryptomonnaies, la sécurité numérique, les stratégies d'investissement."
+              ],
+              [
+                320,
+                "Organiser des webinaires mensuels en direct avec des experts du marché crypto."
+              ],
+              [
+                321,
+                "Créer une bibliothèque de ressources pédagogiques en français et en langues locales."
+              ],
+              [
+                322,
+                "Mettre en place un forum communautaire pour les échanges entre membres investisseurs."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "LANCEMENT ET DÉPLOIEMENT",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                323,
+                "Organiser l'événement de lancement officiel de la plateforme crypto avec conférence de presse et démonstrations en direct."
+              ],
+              [
+                324,
+                "Lancer une campagne de communication intensive sur les réseaux sociaux, la radio et la télévision."
+              ],
+              [
+                325,
+                "Mettre en place un programme de parrainage : tout membre qui parraine un nouvel adhérent reçoit une récompense en crypto."
+              ],
+              [
+                326,
+                "Proposer des promotions de lancement : zéro frais de transaction pendant les 3 premiers mois pour les nouveaux membres."
+              ],
+              [
+                327,
+                "Organiser des sessions de démonstration et d'inscription dans les agences du conglomérat partout au Togo."
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "title": "OPÉRATIONS DE LA BANQUE NUMÉRIQUE",
+        "tasks": [
+          {
+            "kind": "Étapes",
+            "code": "",
+            "title": "Étapes de mise en œuvre",
+            "items": [
+              [
+                328,
+                "Mettre en place les opérations quotidiennes de la banque numérique : dépôts, retraits, transferts, staking, trading."
+              ],
+              [
+                329,
+                "Assurer une assistance clientèle disponible 7j/7 via chat en ligne, téléphone et agences physiques."
+              ],
+              [
+                330,
+                "Publier mensuellement un rapport de transparence sur les actifs détenus et les opérations réalisées."
+              ],
+              [
+                331,
+                "Conduire des audits de sécurité semestriels par des cabinets indépendants."
+              ],
+              [
+                332,
+                "Maintenir une veille réglementaire permanente pour adapter la plateforme à l'évolution du cadre juridique."
+              ],
+              [
+                333,
+                "Évaluer régulièrement les nouvelles cryptomonnaies et opportunités d'investissement à proposer aux membres."
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

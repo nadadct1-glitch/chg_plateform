@@ -1,0 +1,24 @@
+# Environnements Python
+backend/venv/
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Variables d'environnement (secrets)
+backend/.env
+
+# Bases de données locales
+*.sqlite3
+*.db
+
+# Photos de profil téléversées par les utilisateurs
+backend/uploads/
+
+# Éditeurs / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

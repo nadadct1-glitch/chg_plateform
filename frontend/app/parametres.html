@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Paramètres CHG</title>
+<meta name="theme-color" content="#1E2138">
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/icons/icon-192.png">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+<script src="/js/pwa.js" defer></script>
+</head>
+<body class="theme-light">
+<div class="app-shell">
+  <aside class="sidebar" id="sidebar"></aside>
+  <div class="main-col">
+    <header class="topbar" id="topbar"></header>
+    <main class="content" id="page-content">
+
+      <div class="page-head"><div><h1>Paramètres</h1><p class="lead">Votre compte sur la plateforme CHG.</p></div></div>
+
+      <div class="card mb-2" id="account-card"></div>
+
+      <div class="section-label" style="margin-top:0;">Sécurité</div>
+      <div class="card mb-2">
+        <div id="pwd-msg"></div>
+        <form id="password-form">
+          <div class="field"><label>Mot de passe actuel</label><input class="input" id="cur-pwd" type="password" required></div>
+          <div class="field"><label>Nouveau mot de passe</label><input class="input" id="new-pwd" type="password" required minlength="6"></div>
+          <button type="submit" class="btn btn-primary">Mettre à jour le mot de passe</button>
+        </form>
+      </div>
+
+      <div id="admin-links"></div>
+
+      <button class="btn btn-ghost btn-block mt-2" id="logout-btn">Se déconnecter</button>
+
+    </main>
+  </div>
+</div>
+<nav class="bottom-nav" id="bottom-nav"></nav>
+
+<script src="/js/api.js"></script>
+<script src="/js/ui.js"></script>
+<script src="/js/nav.js"></script>
+<script src="/js/parametres.js"></script>
+</body>
+</html>

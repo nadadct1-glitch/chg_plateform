@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Tableau de bord CHG</title>
+<meta name="theme-color" content="#F2F3F8">
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/icons/icon-192.png">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+<script src="/js/pwa.js" defer></script>
+</head>
+<body class="theme-light">
+<div class="app-shell">
+  <aside class="sidebar" id="sidebar"></aside>
+  <div class="main-col">
+    <header class="topbar" id="topbar"></header>
+    <main class="content" id="page-content">
+
+      <div class="page-head">
+        <div>
+          <h1 id="greeting">Bonjour 👋</h1>
+          <p class="lead" id="greeting-sub">Voici un aperçu de votre activité sur la plateforme.</p>
+        </div>
+      </div>
+
+      <div id="admin-overview"></div>
+
+      <div class="dash-grid">
+        <div class="dash-col">
+          <div class="dash-col-head">
+            <h2>Tâches &amp; réunions</h2>
+            <select class="input" id="event-filter" style="width:auto; padding:.4rem .7rem; font-size:.8rem;">
+              <option value="tous">Tout</option>
+              <option value="taches">Tâches</option>
+              <option value="reunions">Réunions</option>
+            </select>
+          </div>
+          <div id="events-list"><div class="loader"><div class="spinner"></div></div></div>
+        </div>
+
+        <div class="dash-col">
+          <div class="dash-col-head"><h2>Actualités</h2></div>
+          <div id="feed-list"><div class="loader"><div class="spinner"></div></div></div>
+        </div>
+
+        <div class="dash-col">
+          <div class="dash-col-head"><h2>Domaines en vedette</h2></div>
+          <div id="featured-domains"></div>
+
+          <div class="dash-col-head mt-2"><h2>Projets en vedette</h2></div>
+          <div id="featured-projects"></div>
+
+          <div class="dash-col-head mt-2"><h2>Membres</h2></div>
+          <div class="people-panel">
+            <div class="people-search">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+              <input type="text" id="people-search-input" placeholder="Rechercher un membre...">
+            </div>
+            <div>
+              <div class="people-section-label" id="founders-label">Fondateurs</div>
+              <div id="founders-people"></div>
+            </div>
+            <div>
+              <div class="people-section-label" id="allpeople-label">Tous les membres</div>
+              <div id="all-people"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </main>
+  </div>
+</div>
+<nav class="bottom-nav" id="bottom-nav"></nav>
+
+<script src="/js/api.js"></script>
+<script src="/js/ui.js"></script>
+<script src="/js/nav.js"></script>
+<script src="/js/accueil.js"></script>
+</body>
+</html>

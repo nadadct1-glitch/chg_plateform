@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Rejoindre le Conglomérat /Concorde Holding Group</title>
+<meta name="theme-color" content="#1E2138">
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/icons/icon-192.png">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+<script src="/js/pwa.js" defer></script>
+</head>
+<body>
+<div class="auth-wrap">
+  <div class="auth-card" style="max-width:480px;">
+    <div class="brand">
+      <img src="/assets/logo-chg.png" alt="Logo CHG">
+      <h1>Rejoindre le Conglomérat</h1>
+      <div class="sub">Associés, employés, étudiants et stagiaires : déposez votre candidature</div>
+    </div>
+    <div class="panel" id="form-panel">
+      <div id="msg-box"></div>
+      <form id="apply-form">
+        <div class="field">
+          <label for="full_name">Nom complet</label>
+          <input class="input" id="full_name" required>
+        </div>
+        <div class="form-row">
+          <div class="field">
+            <label for="email">E-mail</label>
+            <input class="input" id="email" type="email">
+          </div>
+          <div class="field">
+            <label for="phone">Téléphone</label>
+            <input class="input" id="phone" placeholder="+228 ...">
+          </div>
+        </div>
+        <div class="field">
+          <label for="requested_role">Statut souhaité</label>
+          <select class="input" id="requested_role" required></select>
+        </div>
+        <div class="field">
+          <label for="domain_interest">Domaine d'activité d'intérêt</label>
+          <input class="input" id="domain_interest" placeholder="Ex : Bâtiment, Santé, Numérique...">
+        </div>
+        <div class="field">
+          <label for="motivation">Motivation</label>
+          <textarea class="input" id="motivation" rows="4" placeholder="Présentez-vous en quelques lignes..."></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block" id="submit-btn">Envoyer ma candidature</button>
+      </form>
+    </div>
+    <div class="auth-foot">
+      Déjà membre ? <a href="/login.html" style="color:var(--gold); font-weight:600;">Se connecter</a><br>
+      <a href="/index.html" style="color:var(--text-tertiary);">&larr; Retour à l'accueil</a>
+    </div>
+  </div>
+</div>
+<script src="/js/api.js"></script>
+<script src="/js/ui.js"></script>
+<script src="/js/register.js"></script>
+</body>
+</html>

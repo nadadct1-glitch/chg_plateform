@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Contenu du site Admin CHG</title>
+<meta name="theme-color" content="#F2F3F8">
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/icons/icon-192.png">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+<script src="/js/pwa.js" defer></script>
+</head>
+<body class="theme-light">
+<div class="app-shell">
+  <aside class="sidebar" id="sidebar"></aside>
+  <div class="main-col">
+    <header class="topbar" id="topbar"></header>
+    <main class="content" id="page-content">
+
+      <div class="page-head">
+        <div>
+          <h1>Contenu du site</h1>
+          <p class="lead">Textes affichés sur la page d'accueil publique. Modifiables sans toucher au code.</p>
+        </div>
+      </div>
+
+      <div id="content-form"><div class="loader"><div class="spinner"></div></div></div>
+
+      <div class="section-label">Domaines d'activité (référence)</div>
+      <p class="text-sm text-muted">Importés depuis le document de présentation. Pour ajouter ou retirer un domaine, contactez l'équipe technique.</p>
+      <div class="grid grid-4" id="domains-ref"></div>
+
+      <div class="section-label">Projets stratégiques (référence)</div>
+      <div class="grid grid-3" id="projects-ref"></div>
+
+    </main>
+  </div>
+</div>
+<nav class="bottom-nav" id="bottom-nav"></nav>
+
+<script src="/js/api.js"></script>
+<script src="/js/ui.js"></script>
+<script src="/js/nav.js"></script>
+<script src="/js/admin-contenu.js"></script>
+</body>
+</html>

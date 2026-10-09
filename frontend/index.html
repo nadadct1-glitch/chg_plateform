@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Concorde Holding Group / Conglomérat Multi-Sectoriel</title>
+<meta name="description" content="CHG (Concorde Holding Group) Conglomérat multi-sectoriel togolais : services professionnels, formation et sept projets stratégiques, coordonnés par une plateforme intégrée de gestion.">
+<meta name="theme-color" content="#F1E7D8">
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/icons/icon-192.png">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+<script src="/js/pwa.js" defer></script>
+</head>
+<body class="theme-cream">
+
+<nav class="public-nav">
+  <a href="/index.html" class="brand"><img src="/assets/logo-chg.png" alt="Logo CHG">Concorde Holding Group</a>
+  <div class="links">
+    <a href="#mission">Mission</a>
+    <a href="#domaines">Domaines</a>
+    <a href="#projets">Projets</a>
+    <a href="#plateforme">Plateforme</a>
+  </div>
+  <div class="cta">
+    <a href="/login.html" class="btn btn-ghost btn-sm">Se connecter</a>
+    <a href="/rejoindre.html" class="btn btn-primary btn-sm">Rejoindre</a>
+  </div>
+</nav>
+
+<header class="hero" style="position:relative;">
+  <div class="deco-circles">
+    <div class="deco-circle solid-gold" style="width:260px; height:260px; top:-120px; left:-90px;"></div>
+    <div class="deco-circle dotted" style="width:150px; height:150px; top:60px; right:6%;"></div>
+    <div class="deco-circle outline" style="width:90px; height:90px; top:230px; right:16%;"></div>
+  </div>
+
+  <div class="hero-intro reveal" style="position:relative; z-index:1;">
+    <img src="/assets/logo-chg.png" alt="Logo CHG" class="hero-logo">
+    <div class="hero-message">
+      <div class="eyebrow" id="hero-eyebrow">CONGLOMÉRAT MULTI-SECTORIEL</div>
+      <h1 id="hero-title">Tous domaines, Toutes spécialités, Tous services.</h1>
+      <p class="lead" id="hero-intro">Chargement du contenu…</p>
+    </div>
+  </div>
+
+  <div class="hero-slider reveal" id="hero-slider" style="position:relative; z-index:1;">
+    <div id="hero-slides"></div>
+    <button class="hs-arrow hs-prev" id="hs-prev" aria-label="Précédent">&#8592;</button>
+    <button class="hs-arrow hs-next" id="hs-next" aria-label="Suivant">&#8594;</button>
+    <div class="hs-dots" id="hs-dots"></div>
+  </div>
+
+  <div class="cta-row mt-3" style="position:relative; z-index:1;">
+    <a href="/rejoindre.html" class="btn btn-primary">Rejoindre le conglomérat</a>
+    <a href="#processus" class="btn btn-ghost">Découvrir le processus de création</a>
+  </div>
+  <div class="stat-row" id="stat-row" style="position:relative; z-index:1;"></div>
+</header>
+
+<section class="landing-section" id="mission">
+  <div class="grid grid-2 reveal-stagger">
+    <div class="card-dark">
+      <h2 style="font-size:1.2rem;">Notre mission</h2>
+      <p id="mission-text">…</p>
+    </div>
+    <div class="card-dark">
+      <h2 style="font-size:1.2rem;">Notre vision</h2>
+      <p id="vision-text">…</p>
+    </div>
+  </div>
+</section>
+
+<section class="landing-section">
+  <h2>Nos valeurs</h2>
+  <p class="lead">Les principes qui guident chacune de nos interventions, dans tous les secteurs.</p>
+  <div class="grid grid-3 reveal-stagger" id="valeurs-grid"></div>
+</section>
+
+<section class="landing-section" id="fondateurs">
+  <h2>Membres fondateurs</h2>
+  <p class="lead">L'équipe à l'origine du conglomérat, chacun porteur d'une expertise complémentaire.</p>
+  <div class="grid grid-4 reveal-stagger" id="fondateurs-grid"></div>
+</section>
+
+<section class="landing-section" id="domaines" style="position:relative;">
+  <div class="deco-circles">
+    <div class="deco-circle dotted" style="width:130px; height:130px; top:10px; left:2%;"></div>
+  </div>
+  <h2>Sélectionnez un domaine d'activité</h2>
+  <p class="lead">16 domaines, des centaines de spécialités un réseau de spécialistes couvrant l'ensemble des besoins professionnels de la population togolaise.</p>
+  <div class="card reveal" id="domaines-list" style="position:relative; z-index:1;"></div>
+</section>
+
+<section class="landing-section" id="projets">
+  <h2>7 projets stratégiques</h2>
+  <p class="lead">Des initiatives structurantes qui incarnent concrètement la vision du conglomérat.</p>
+  <div class="grid grid-3 reveal-stagger" id="projets-grid"></div>
+</section>
+
+<section class="landing-section" id="processus">
+  <h2>Un processus de création détaillé, étape par étape</h2>
+  <p class="lead">De l'étude de faisabilité au déploiement complet, chaque phase est planifiée, assignée et suivie sur la plateforme.</p>
+  <div class="stat-feature-grid reveal-stagger" id="process-stats"></div>
+</section>
+
+<section class="landing-section" id="plateforme">
+  <h2>La Plateforme Intégrée de Gestion</h2>
+  <p class="lead">Sept modules qui relient clients, spécialistes, formateurs et direction en temps réel.</p>
+  <div class="grid grid-3 reveal-stagger" id="modules-grid"></div>
+</section>
+
+<section class="landing-section" style="text-align:center; position:relative;">
+  <div class="deco-circles">
+    <div class="deco-circle solid-gold" style="width:200px; height:200px; bottom:-90px; right:4%;"></div>
+  </div>
+  <div class="card-dark" style="position:relative; z-index:1; padding:2.4rem 1.6rem;">
+    <h2>Prêt à rejoindre l'aventure ?</h2>
+    <p class="lead" style="margin:0 auto 1.4rem;">Associés, employés, étudiants et stagiaires : déposez votre candidature dès aujourd'hui.</p>
+    <div class="cta-row">
+      <a href="/rejoindre.html" class="btn btn-primary">Déposer ma candidature</a>
+      <a href="/login.html" class="btn btn-ghost" style="color:#fff; border-color:rgba(255,255,255,.3);">J'ai déjà un compte</a>
+    </div>
+  </div>
+</section>
+
+<footer class="public-footer">
+  <div class="footer-grid">
+    <div class="footer-col footer-brand">
+      <a href="/index.html" class="footer-logo-row">
+        <img src="/assets/logo-chg.png" alt="Logo CHG">
+        <span id="footer-org">Concorde Holding Group</span>
+      </a>
+      <p id="footer-tagline">Tous domaines. Toutes spécialités. Tous services.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Découvrir</h4>
+      <a href="#mission">Mission &amp; vision</a>
+      <a href="#fondateurs">Membres fondateurs</a>
+      <a href="#domaines">Domaines d'activité</a>
+      <a href="#projets">Projets stratégiques</a>
+      <a href="#processus">Processus de création</a>
+      <a href="#plateforme">Plateforme de gestion</a>
+    </div>
+    <div class="footer-col">
+      <h4>Rejoindre</h4>
+      <a href="/rejoindre.html">Déposer une candidature</a>
+      <a href="/login.html">Se connecter</a>
+    </div>
+    <div class="footer-col" id="footer-contact">
+      <h4>Contact</h4>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span id="footer-copy">© <span id="footer-year"></span> Concorde Holding Group. Tous droits réservés.</span>
+  </div>
+</footer>
+
+<script src="/js/api.js"></script>
+<script src="/js/ui.js"></script>
+<script src="/js/landing.js"></script>
+<script src="/js/animate.js"></script>
+</body>
+</html>

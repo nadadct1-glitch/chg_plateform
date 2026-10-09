@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Réunions CHG</title>
+<meta name="theme-color" content="#1E2138">
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/icons/icon-192.png">
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+<script src="/js/pwa.js" defer></script>
+</head>
+<body class="theme-light">
+<div class="app-shell">
+  <aside class="sidebar" id="sidebar"></aside>
+  <div class="main-col">
+    <header class="topbar" id="topbar"></header>
+    <main class="content" id="page-content">
+
+      <div class="page-head">
+        <div>
+          <h1>Réunions</h1>
+          <p class="lead">Comités, points d'équipe et rencontres avec les partenaires.</p>
+        </div>
+        <button class="btn btn-primary" id="new-meeting-btn" style="display:none;">+ Nouvelle réunion</button>
+      </div>
+
+      <div class="section-label" style="margin-top:0;">À venir</div>
+      <div id="upcoming-list"><div class="loader"><div class="spinner"></div></div></div>
+
+      <div class="section-label">Passées</div>
+      <div id="past-list"></div>
+
+    </main>
+  </div>
+</div>
+<nav class="bottom-nav" id="bottom-nav"></nav>
+<button class="fab" id="fab-add" style="display:none;" title="Nouvelle réunion">+</button>
+
+<script src="/js/api.js"></script>
+<script src="/js/ui.js"></script>
+<script src="/js/nav.js"></script>
+<script src="/js/reunions.js"></script>
+</body>
+</html>
